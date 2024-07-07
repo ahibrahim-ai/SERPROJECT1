@@ -22,3 +22,8 @@ You can install the following required packages using pip
 - keras
 - IPython
 
+## Data Preparation
+
+Ensure you have the RAVDESS dataset downloaded and placed in the appropriate directory. The code assumes the dataset is in the Ravdess-Emotional-Speech-audio-dataset/audio_speech_actors_01-24/ directory.
+
+For more details, refer to the full paper [here](https://www.researchgate.net/publication/376682030_Evaluating_Speech_Emotion_Recognition_through_the_lens_of_CNN_LSTM_Deep_Learning_Models)
